@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Backendless Viewer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_intro">Welcome to Backendless Viewer.\nUsing the app you can view and\nexperience the apps created with\nBackendless Page Builder.</string>
+    <string name="to_get_started_intro">To get started, login to Backendless Console, select FRONTEND and click the QR button, then use the button below to scan the QR code</string>
+    <string name="scan_qr_code">Scan QR code</string>
+
+    <string name="login_url">https://backendlessappcontent.com/7E25B48A-05FA-0B5D-FFAE-63CC0AC26C00/E9920D04-8F81-D6EC-FFBB-4D4D78486100/files/myContainer/myContainer/index.html#login</string>
+    <string name="landing_url">https://backendlessappcontent.com/7E25B48A-05FA-0B5D-FFAE-63CC0AC26C00/E9920D04-8F81-D6EC-FFBB-4D4D78486100/files/myContainer/myContainer/index.html#landing</string>
+</resources>
